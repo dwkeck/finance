@@ -1,0 +1,4 @@
+finance
+=======
+
+exploring finance data
